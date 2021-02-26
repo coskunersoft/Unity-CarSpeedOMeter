@@ -1,4 +1,1 @@
-<video width="360" height="320" controls="controls">
-  <source src="https://raw.githubusercontent.com/coskunersoft/CarSpeedOMeter/main/Ads%C4%B1z.mov" type="video/mp4" />
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/z6yf14" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
